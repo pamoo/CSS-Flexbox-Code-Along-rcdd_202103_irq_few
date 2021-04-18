@@ -40,5 +40,5 @@ main {
   width: 100px;
   margin: 5px;
   background-color: #FCF2EC;
-  flex-wrap: wrap;
+flex-flow: column wrap;
 }
